@@ -13,7 +13,7 @@
 
   bash
   Copy code
-  git clone https://github.com/your-username/visualization-forecasting-stock.git
+  git clone https://github.com/yashwanth-20/visualization-Forecasting-stock-using-streamlit.git
   Navigate to the project directory:
 
 
