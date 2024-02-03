@@ -26,7 +26,7 @@
   bash
   Copy code
   streamlit run app.py
-  Open your web browser and go to http://localhost:8501 to access the application.
+  Open your web browser and go to http://localhost:8501/ to access the application.
 
   Enter the stock symbol and configure any desired settings.
 
